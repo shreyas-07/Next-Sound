@@ -1,2 +1,2 @@
 # Next-Sound
-Check Nextsound.pdf for more info :)
+Check Next Sound.pdf for more info :)
